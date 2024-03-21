@@ -1,3 +1,6 @@
 # TIL
 
-[AutoLayOut](https://m.naver.com)
+
+
+### NSLayoutConstraint, translatesAutoresizingMaskIntoConstraints 
+[AutoLayOut](https://github.com/happykwon/TIL/issues/1)
