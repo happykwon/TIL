@@ -1,5 +1,5 @@
 # TIL
-
+개인 기록용 TIL입니다. 
 
 
 ## AutoLayOut
